@@ -1,0 +1,11 @@
+Igrac 1 - Slavko
+       Figura 1 (SuperBrza,Zuta ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+       Figura 2 (SuperBrza,Zuta ) -  predjeni put (4-12-20-28-34-40-46-) - stigla do cilja ` ne`
+       Figura 3 (Obicna,Zuta ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+       Figura 4 (Obicna,Zuta ) -  predjeni put (4-12-20-) - stigla do cilja ` ne`
+Igrac 2 - Marko
+       Figura 1 (Obicna,Plava ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+       Figura 2 (Obicna,Plava ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+       Figura 3 (Lebdeca,Plava ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+       Figura 4 (SuperBrza,Plava ) -  predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25-) - stigla do cilja ` da`
+Ukupno vrijeme trajanja igre: 201s
